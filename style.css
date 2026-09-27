@@ -16,3 +16,10 @@ body {
     margin: 0;
     
 }
+.card {
+    height: 100%;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
